@@ -1,0 +1,20 @@
+body{
+    color:#e99dd7;
+font-family: 'Gill Sans';
+font-size: xx-large;
+font-style: italic;
+font-weight: bold;
+text-decoration: solid;
+text-shadow: 7cap;
+line-height: 80%;
+word-spacing: 10%;
+letter-spacing: 15%;
+}
+
+.curso-descricao {
+    color: blue
+}
+
+.card {
+    border: 2px solid rgb(179, 0, 255)
+}
